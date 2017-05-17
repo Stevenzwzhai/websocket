@@ -1,5 +1,6 @@
 # websocket
 first websocket demo
 
-npm install
-node demo00
+ npm install
+ 
+ node demo00
